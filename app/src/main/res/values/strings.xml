@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TabLayouts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="red_fragment">RED FRAGMENT</string>
+    <string name="blueFragment">BLUE FRAGMENT</string>
+    <string name="green_fragment">GREEN FRAGMENT</string>
+</resources>
